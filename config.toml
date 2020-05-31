@@ -1,0 +1,39 @@
+baseurl = "https://akhildhingra.github.io/"
+languageCode = "en-us"
+title = "Akhil Dhingra"
+theme = "internet-weblog"
+pygmentsstyle = "emacs"
+Paginate = 10
+
+[author]
+	Handle = ""
+	FirstName = "Akhil"
+	LastName = "Dhingra"
+	AboutPage = "/about"
+	Location = "Berlin"
+	FlickrID = "188681015@N02"
+
+[params]
+	Description = "Internet weblog of Akhil Dhingra."
+	ShowCopyright = true
+	RSSEnabled = true
+	RSSMicropostTitles = false
+	mainSections = [ "posts", "microposts", "talks" ]
+	SummarizeMicroposts = true
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[[menu.main]]
+	name = "Post Archive"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
+
+[[menu.main]]
+	name = "talks"
+	weight = 2
+	identifier = "talks"
+	url = "/talks/"

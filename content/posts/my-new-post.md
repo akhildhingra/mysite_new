@@ -1,0 +1,11 @@
+---
+title: "Build Vs Buy vs Vendor Managed | My Talk at Product Camp"
+date: 2020-05-31T11:29:21+02:00
+draft: false
+---
+
+Solving an internal customer need often requires PMs to choose between Build vs Buy. For platform centric offerings in enterprises like Data Transformation / Machine Learning, there is a third option – Vendor Managed. Within large microservices footprint and complex org structures, much of the initial procurement and product discovery happens with key stakeholders and limited beta users. This somewhat reduces feasibility risk, but increases value and usability risk for end users.  My presentation is about 2 parts – how to initiate an internal product marketing process / CoE for continuous product discovery + fit and how to build an ecosystem while maintaining the need for failing fast / reversible decisions in such situations.
+
+Please join me at Product Camp / Bar Camp (Europe) for details about this journey. 
+
+https://productcamp.pl/presentation/akhil-dhingra/
